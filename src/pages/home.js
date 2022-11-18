@@ -27,7 +27,7 @@ class Home extends React.Component{
             </div>
             <div class="col-lg-5">
               <div id="map">
-                {/* <iframe src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe> */}
+              <iframe src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="636px" frameborder="0" style={{border:0}} allowfullscreen></iframe>
               </div>
             </div>
             <div class="col-lg-7">
